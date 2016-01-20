@@ -61,11 +61,6 @@ a:hover {
   </ul>
 
   <ul>
-    <li><h2>hyangsun</h2>:</li>
-    <li><a href="http://longnap.com/korean/">韓国語 with Hyangsun&#x2197;</a></li>
-  </ul>
-
-  <ul>
     <li><h2>social</h2>:</li>
     <li><a href="http://facebook.com/hyangsunandmiquel">facebook&#x2197;</a></li>
   </ul>
